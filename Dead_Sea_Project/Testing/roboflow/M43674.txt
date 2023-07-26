@@ -1,0 +1,572 @@
+{
+  "predictions": [
+    {
+      "x": 87.5,
+      "y": 418.5,
+      "width": 55,
+      "height": 41,
+      "confidence": 0.887,
+      "class": "fragment"
+    },
+    {
+      "x": 208.5,
+      "y": 415.5,
+      "width": 31,
+      "height": 41,
+      "confidence": 0.88,
+      "class": "fragment"
+    },
+    {
+      "x": 301.5,
+      "y": 182.5,
+      "width": 31,
+      "height": 29,
+      "confidence": 0.863,
+      "class": "fragment"
+    },
+    {
+      "x": 151.5,
+      "y": 421.5,
+      "width": 69,
+      "height": 41,
+      "confidence": 0.86,
+      "class": "fragment"
+    },
+    {
+      "x": 219,
+      "y": 80.5,
+      "width": 26,
+      "height": 27,
+      "confidence": 0.86,
+      "class": "fragment"
+    },
+    {
+      "x": 292,
+      "y": 87.5,
+      "width": 38,
+      "height": 43,
+      "confidence": 0.858,
+      "class": "fragment"
+    },
+    {
+      "x": 250,
+      "y": 419,
+      "width": 38,
+      "height": 32,
+      "confidence": 0.857,
+      "class": "fragment"
+    },
+    {
+      "x": 191.5,
+      "y": 334.5,
+      "width": 21,
+      "height": 23,
+      "confidence": 0.851,
+      "class": "fragment"
+    },
+    {
+      "x": 193.5,
+      "y": 126,
+      "width": 31,
+      "height": 24,
+      "confidence": 0.85,
+      "class": "fragment"
+    },
+    {
+      "x": 245,
+      "y": 176,
+      "width": 22,
+      "height": 26,
+      "confidence": 0.848,
+      "class": "fragment"
+    },
+    {
+      "x": 261.5,
+      "y": 363,
+      "width": 33,
+      "height": 36,
+      "confidence": 0.847,
+      "class": "fragment"
+    },
+    {
+      "x": 77,
+      "y": 375.5,
+      "width": 20,
+      "height": 19,
+      "confidence": 0.844,
+      "class": "fragment"
+    },
+    {
+      "x": 168.5,
+      "y": 335,
+      "width": 19,
+      "height": 22,
+      "confidence": 0.844,
+      "class": "fragment"
+    },
+    {
+      "x": 164.5,
+      "y": 172.5,
+      "width": 21,
+      "height": 27,
+      "confidence": 0.841,
+      "class": "fragment"
+    },
+    {
+      "x": 299,
+      "y": 136,
+      "width": 30,
+      "height": 24,
+      "confidence": 0.839,
+      "class": "fragment"
+    },
+    {
+      "x": 251,
+      "y": 86.5,
+      "width": 26,
+      "height": 45,
+      "confidence": 0.838,
+      "class": "fragment"
+    },
+    {
+      "x": 65.5,
+      "y": 123,
+      "width": 25,
+      "height": 22,
+      "confidence": 0.834,
+      "class": "fragment"
+    },
+    {
+      "x": 144.5,
+      "y": 298.5,
+      "width": 23,
+      "height": 19,
+      "confidence": 0.834,
+      "class": "fragment"
+    },
+    {
+      "x": 132.5,
+      "y": 338.5,
+      "width": 23,
+      "height": 23,
+      "confidence": 0.83,
+      "class": "fragment"
+    },
+    {
+      "x": 146,
+      "y": 78.5,
+      "width": 24,
+      "height": 21,
+      "confidence": 0.83,
+      "class": "fragment"
+    },
+    {
+      "x": 202,
+      "y": 223,
+      "width": 22,
+      "height": 26,
+      "confidence": 0.828,
+      "class": "fragment"
+    },
+    {
+      "x": 270.5,
+      "y": 179.5,
+      "width": 27,
+      "height": 23,
+      "confidence": 0.827,
+      "class": "fragment"
+    },
+    {
+      "x": 174,
+      "y": 262,
+      "width": 22,
+      "height": 22,
+      "confidence": 0.827,
+      "class": "fragment"
+    },
+    {
+      "x": 222,
+      "y": 372,
+      "width": 24,
+      "height": 22,
+      "confidence": 0.826,
+      "class": "fragment"
+    },
+    {
+      "x": 108,
+      "y": 372.5,
+      "width": 26,
+      "height": 15,
+      "confidence": 0.824,
+      "class": "fragment"
+    },
+    {
+      "x": 174.5,
+      "y": 294,
+      "width": 21,
+      "height": 20,
+      "confidence": 0.823,
+      "class": "fragment"
+    },
+    {
+      "x": 136,
+      "y": 265,
+      "width": 36,
+      "height": 20,
+      "confidence": 0.822,
+      "class": "fragment"
+    },
+    {
+      "x": 76,
+      "y": 341.5,
+      "width": 20,
+      "height": 21,
+      "confidence": 0.822,
+      "class": "fragment"
+    },
+    {
+      "x": 263,
+      "y": 298,
+      "width": 22,
+      "height": 20,
+      "confidence": 0.821,
+      "class": "fragment"
+    },
+    {
+      "x": 104,
+      "y": 220,
+      "width": 22,
+      "height": 20,
+      "confidence": 0.821,
+      "class": "fragment"
+    },
+    {
+      "x": 113,
+      "y": 167,
+      "width": 30,
+      "height": 38,
+      "confidence": 0.82,
+      "class": "fragment"
+    },
+    {
+      "x": 62,
+      "y": 173.5,
+      "width": 18,
+      "height": 25,
+      "confidence": 0.818,
+      "class": "fragment"
+    },
+    {
+      "x": 214.5,
+      "y": 177,
+      "width": 19,
+      "height": 18,
+      "confidence": 0.816,
+      "class": "fragment"
+    },
+    {
+      "x": 87.5,
+      "y": 169.5,
+      "width": 23,
+      "height": 33,
+      "confidence": 0.816,
+      "class": "fragment"
+    },
+    {
+      "x": 228,
+      "y": 224.5,
+      "width": 22,
+      "height": 17,
+      "confidence": 0.816,
+      "class": "fragment"
+    },
+    {
+      "x": 131,
+      "y": 226,
+      "width": 18,
+      "height": 20,
+      "confidence": 0.815,
+      "class": "fragment"
+    },
+    {
+      "x": 72.5,
+      "y": 291.5,
+      "width": 17,
+      "height": 19,
+      "confidence": 0.813,
+      "class": "fragment"
+    },
+    {
+      "x": 111,
+      "y": 85.5,
+      "width": 26,
+      "height": 23,
+      "confidence": 0.813,
+      "class": "fragment"
+    },
+    {
+      "x": 176.5,
+      "y": 75.5,
+      "width": 23,
+      "height": 23,
+      "confidence": 0.812,
+      "class": "fragment"
+    },
+    {
+      "x": 204,
+      "y": 293.5,
+      "width": 20,
+      "height": 17,
+      "confidence": 0.81,
+      "class": "fragment"
+    },
+    {
+      "x": 181,
+      "y": 367,
+      "width": 24,
+      "height": 18,
+      "confidence": 0.81,
+      "class": "fragment"
+    },
+    {
+      "x": 129.5,
+      "y": 126,
+      "width": 33,
+      "height": 22,
+      "confidence": 0.81,
+      "class": "fragment"
+    },
+    {
+      "x": 151.5,
+      "y": 221,
+      "width": 17,
+      "height": 14,
+      "confidence": 0.809,
+      "class": "fragment"
+    },
+    {
+      "x": 138,
+      "y": 186.5,
+      "width": 20,
+      "height": 25,
+      "confidence": 0.808,
+      "class": "fragment"
+    },
+    {
+      "x": 163.5,
+      "y": 126,
+      "width": 25,
+      "height": 20,
+      "confidence": 0.807,
+      "class": "fragment"
+    },
+    {
+      "x": 185.5,
+      "y": 175,
+      "width": 17,
+      "height": 22,
+      "confidence": 0.806,
+      "class": "fragment"
+    },
+    {
+      "x": 255.5,
+      "y": 220,
+      "width": 21,
+      "height": 20,
+      "confidence": 0.806,
+      "class": "fragment"
+    },
+    {
+      "x": 142,
+      "y": 368,
+      "width": 30,
+      "height": 18,
+      "confidence": 0.805,
+      "class": "fragment"
+    },
+    {
+      "x": 221.5,
+      "y": 332,
+      "width": 25,
+      "height": 22,
+      "confidence": 0.803,
+      "class": "fragment"
+    },
+    {
+      "x": 305,
+      "y": 359,
+      "width": 22,
+      "height": 20,
+      "confidence": 0.803,
+      "class": "fragment"
+    },
+    {
+      "x": 96.5,
+      "y": 129,
+      "width": 27,
+      "height": 28,
+      "confidence": 0.794,
+      "class": "fragment"
+    },
+    {
+      "x": 175.5,
+      "y": 222.5,
+      "width": 17,
+      "height": 17,
+      "confidence": 0.793,
+      "class": "fragment"
+    },
+    {
+      "x": 202.5,
+      "y": 257.5,
+      "width": 19,
+      "height": 19,
+      "confidence": 0.791,
+      "class": "fragment"
+    },
+    {
+      "x": 235.5,
+      "y": 293.5,
+      "width": 21,
+      "height": 21,
+      "confidence": 0.785,
+      "class": "fragment"
+    },
+    {
+      "x": 259,
+      "y": 330.5,
+      "width": 22,
+      "height": 19,
+      "confidence": 0.784,
+      "class": "fragment"
+    },
+    {
+      "x": 264,
+      "y": 134,
+      "width": 28,
+      "height": 12,
+      "confidence": 0.782,
+      "class": "fragment"
+    },
+    {
+      "x": 232,
+      "y": 258,
+      "width": 16,
+      "height": 20,
+      "confidence": 0.774,
+      "class": "fragment"
+    },
+    {
+      "x": 71,
+      "y": 90,
+      "width": 28,
+      "height": 22,
+      "confidence": 0.773,
+      "class": "fragment"
+    },
+    {
+      "x": 250,
+      "y": 258,
+      "width": 14,
+      "height": 18,
+      "confidence": 0.771,
+      "class": "fragment"
+    },
+    {
+      "x": 103.5,
+      "y": 340,
+      "width": 21,
+      "height": 14,
+      "confidence": 0.769,
+      "class": "fragment"
+    },
+    {
+      "x": 291.5,
+      "y": 255.5,
+      "width": 51,
+      "height": 43,
+      "confidence": 0.762,
+      "class": "fragment"
+    },
+    {
+      "x": 279.5,
+      "y": 218,
+      "width": 17,
+      "height": 16,
+      "confidence": 0.761,
+      "class": "fragment"
+    },
+    {
+      "x": 90.5,
+      "y": 294,
+      "width": 19,
+      "height": 24,
+      "confidence": 0.753,
+      "class": "fragment"
+    },
+    {
+      "x": 305.5,
+      "y": 220,
+      "width": 13,
+      "height": 14,
+      "confidence": 0.752,
+      "class": "fragment"
+    },
+    {
+      "x": 230.5,
+      "y": 135.5,
+      "width": 31,
+      "height": 13,
+      "confidence": 0.736,
+      "class": "fragment"
+    },
+    {
+      "x": 112,
+      "y": 298.5,
+      "width": 22,
+      "height": 25,
+      "confidence": 0.728,
+      "class": "fragment"
+    },
+    {
+      "x": 298,
+      "y": 327,
+      "width": 36,
+      "height": 36,
+      "confidence": 0.716,
+      "class": "fragment"
+    },
+    {
+      "x": 95,
+      "y": 262.5,
+      "width": 18,
+      "height": 15,
+      "confidence": 0.707,
+      "class": "fragment"
+    },
+    {
+      "x": 70,
+      "y": 261.5,
+      "width": 16,
+      "height": 11,
+      "confidence": 0.685,
+      "class": "fragment"
+    },
+    {
+      "x": 288,
+      "y": 422,
+      "width": 48,
+      "height": 32,
+      "confidence": 0.63,
+      "class": "fragment"
+    },
+    {
+      "x": 295.5,
+      "y": 293.5,
+      "width": 29,
+      "height": 17,
+      "confidence": 0.6,
+      "class": "fragment"
+    }
+  ]
+}
